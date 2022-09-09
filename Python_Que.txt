@@ -1,0 +1,94 @@
+What do you mean by *args and **kwargs?
+What is the iterator protocol?
+What is tuple unpacking?
+Explain garbage collection with Python.
+ how to deallocate memory in python?
+
+
+What is JSON? Describe in brief how you’d convert JSON data into Python data?
+How would you display a file’s contents in reversed order?
+
+Can you explain the filter(), map(), and reduce() functions?
+What is pickling and unpickling?
+
+What is the MRO in Python?
+Explain join() and split() in Python.
+ What is the enumerate() function in Python?
+
+Where will you use while rather than for?
+
+Differentiate between deep and shallow copy.
+
+Explain inheritance in Python.
+
+Explain lambda expressions. When would you use one?
+what is an iterator?
+
+What is a decorator?
+
+What is the pass statement in Python?
+What does the function zip() do?
+
+What is PEP 8?
+
+What makes Python object-oriented?
+.What is OOPS?
+
+What is class?
+What is Object?
+
+What is encapsulation,abstration, inheritance, polymorphism, w.r.t. python?
+
+How to find duplicate value in list.
+How can you merge two dict.
+List comprehension dict comprehension, frozenset. 
+
+
+How you can use multithreading in python.
+Difference between list and tuple
+How you can create dict from two lists?
+
+if we have very long string of names separated by comma how you can
+convert it into list.
+
+ write a code for palindrome without using inbuilt?
+
+what is generators?
+write a generator to print prime number?
+
+what is property decorator?
+ what is getter and setter method?
+what is class variable and instance variable?
+ what is data type of d.items ?
+why we use set?
+difference between list and array?
+ what is python path?
+how memory managed in python?
+ what is module and library?
+what is multithreading and multiprocessing?
+
+What is JSON. Describe in brief how you’d convert JSON data into Python data
+Diff. between the append() and extend() methods of a list.
+
+ how can you remove the whitespaces from the string “aaa bbb ccc ddd eee”
+
+What happens if we do not handle an error in the except block.
+
+what is multiple inheritance
+
+what is method overriding n overloading
+
+a variable containg string how will we replace any character
+
+how does python interprete code
+
+ write a code for printing second max value in list without for loop
+
+difference between generator and iterator? which one is fast
+
+difference between module and package.
+what is init in class
+how to write destructor in class
+
+ dictionary printing random keys how to sequence the key .
+What is Abstract base class ?
